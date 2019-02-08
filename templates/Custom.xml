@@ -1,0 +1,21 @@
+<templateSet group="Custom">
+  <template name="//f" value="// FIXME: $DESCRIPTION$$END$" description="FIXME" toReformat="false" toShortenFQNames="true">
+    <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY" value="true" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="//t" value="/*&#10; * TODO[$CATEGORY$]: $DESCRIPTION$&#10; *  @$AUTHOR$ - $TIMESTAMP$&#10; */$END$" description="TODO" toReformat="false" toShortenFQNames="true">
+    <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CATEGORY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="AUTHOR" expression="user()" defaultValue="" alwaysStopAt="false" />
+    <variable name="TIMESTAMP" expression="date(&quot;yyyy-MM-dd&quot;)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="GROOVY" value="true" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>
