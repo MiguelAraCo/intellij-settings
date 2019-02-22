@@ -1,0 +1,10 @@
+<application>
+  <component name="TodoConfiguration">
+    <filter name="TODOs">
+      <pattern index="0" />
+    </filter>
+    <filter name="FIXMEs">
+      <pattern index="1" />
+    </filter>
+  </component>
+</application>
