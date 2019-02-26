@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="template-with-options" type="Bash" />
       <mapping pattern="template-with-arguments" type="Bash" />
+      <mapping pattern="terraform.tfstate" type="JSON" />
       <mapping pattern="terraform-provider-kafka" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
