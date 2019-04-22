@@ -1,9 +1,18 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ChangesView.AddUnversioned">
+    <keyboard-shortcut first-keystroke="meta alt a" />
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+  </action>
   <action id="ChangesView.Diff" />
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.CompareCells" />
+  <action id="CopyPaths" />
   <action id="DatabaseView.CopyAction" />
+  <action id="DatabaseView.CopyDdlAction" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="EditorDuplicate" />
