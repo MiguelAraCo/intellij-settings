@@ -5,5 +5,9 @@
       <action id="ReformatCode" />
       <action id="SaveAll" />
     </macro>
+    <macro name="Imports &gt; Prettier">
+      <action id="OptimizeImports" />
+      <action id="ReformatWithPrettierAction" />
+    </macro>
   </component>
 </application>
