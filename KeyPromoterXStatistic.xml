@@ -6,7 +6,7 @@
           <IdeaActionID>Git.Add</IdeaActionID>
           <ShortCut>'⌥⌘A'</ShortCut>
           <Description>Add</Description>
-          <Count>40</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinFiles</IdeaActionID>
           <ShortCut>'⇧⌘C'</ShortCut>
           <Description>Commit Directory...</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -70,7 +70,7 @@
           <IdeaActionID>FindInPath</IdeaActionID>
           <ShortCut>'⇧⌘F'</ShortCut>
           <Description>Find in Path...</Description>
-          <Count>6</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -127,6 +127,14 @@
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
           <Count>43</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Replace in Path...">
+        <Item>
+          <IdeaActionID>ReplaceInPath</IdeaActionID>
+          <ShortCut>'⇧⌘R'</ShortCut>
+          <Description>Replace in Path...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'roc:apps:azure-functions:ingest-overdrive-metadata [uninstall_invalid_dependencies]'">
