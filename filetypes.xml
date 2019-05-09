@@ -8,6 +8,7 @@
       <mapping pattern="change-admin-credentials" type="Bash" />
       <mapping pattern="template-with-options" type="Bash" />
       <mapping pattern="terraform.tfstate" type="JSON" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="terraform-provider-kafka" type="PLAIN_TEXT" />
       <mapping pattern="ModelType" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
