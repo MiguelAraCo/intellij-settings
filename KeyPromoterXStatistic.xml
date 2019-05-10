@@ -54,7 +54,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>114</Count>
+          <Count>115</Count>
         </Item>
       </Statistic>
       <Statistic Action="Detach Gradle project">
@@ -167,6 +167,14 @@
           <ShortCut>'⇧⌘R'</ShortCut>
           <Description>Replace in Path...</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'open-catalog:apps:cosmos-triggers:update-change-log [build]'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'open-catalog:apps:cosmos-triggers:update-change-log [build]'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'roc:apps:azure-functions:ingest-overdrive-metadata [uninstall_invalid_dependencies]'">
