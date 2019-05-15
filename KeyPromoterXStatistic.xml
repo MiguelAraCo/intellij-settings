@@ -6,7 +6,7 @@
           <IdeaActionID>Git.Add</IdeaActionID>
           <ShortCut>'⌥⌘A'</ShortCut>
           <Description>Add</Description>
-          <Count>57</Count>
+          <Count>60</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinFiles</IdeaActionID>
           <ShortCut>'⇧⌘C'</ShortCut>
           <Description>Commit Directory...</Description>
-          <Count>36</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -39,6 +39,14 @@
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'index.test.ts'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'index.test.ts'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -54,7 +62,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>119</Count>
+          <Count>120</Count>
         </Item>
       </Statistic>
       <Statistic Action="Detach Gradle project">
@@ -142,7 +150,7 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'⇧⌘K'</ShortCut>
           <Description>Push...</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reformat Code">
@@ -158,7 +166,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>57</Count>
+          <Count>61</Count>
         </Item>
       </Statistic>
       <Statistic Action="Replace in Path...">
@@ -217,6 +225,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'index.test.ts'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'index.test.ts'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'open-catalog:apps:cosmos-triggers:update-change-log [build]'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -254,7 +270,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>51</Count>
+          <Count>53</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -297,6 +313,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'index.test.ts'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'index.test.ts'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'open-catalog:apps:cosmos-triggers:update-change-log [install]'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -334,7 +358,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>58</Count>
+          <Count>59</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Power Mode II">
