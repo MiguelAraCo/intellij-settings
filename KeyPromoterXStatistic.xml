@@ -41,6 +41,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'KoboMetadataNormaliz...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'KoboMetadataNormaliz...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'index.test.ts'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -201,6 +209,14 @@
           <Count>13</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'KoboMetadataNormalizer.test.ts'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'KoboMetadataNormalizer.test.ts'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Normalizes KoboMetadata into kobo:EBook'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -265,6 +281,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'open-catalog [test]'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'open-catalog [test]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'open-catalog:apps:azure-functions:normalize-kobo-metadata [build]'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -310,7 +334,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>88</Count>
+          <Count>90</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -326,6 +350,14 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'KoboMetadataNormaliz...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'KoboMetadataNormaliz...'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
