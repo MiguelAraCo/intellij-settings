@@ -321,6 +321,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'retry.Retries fn upon failure based on the number of tries specified'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'retry.Retries fn upon failure based on the number of tries specified'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'roc:apps:azure-functions:ingest-overdrive-metadata [uninstall_invalid_dependencies]'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
