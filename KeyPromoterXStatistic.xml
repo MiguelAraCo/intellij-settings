@@ -105,6 +105,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Fetch">
+        <Item>
+          <IdeaActionID>Git.Fetch</IdeaActionID>
+          <ShortCut>'⌃⇧F'</ShortCut>
+          <Description>Fetch</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Find in Path...">
         <Item>
           <IdeaActionID>FindInPath</IdeaActionID>
