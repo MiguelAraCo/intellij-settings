@@ -11,7 +11,6 @@
       <mapping pattern="terraform.tfstate" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="CatalogEBook" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="terraform-provider-kafka" type="PLAIN_TEXT" />
       <mapping pattern="ModelType" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
