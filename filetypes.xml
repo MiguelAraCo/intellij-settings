@@ -6,6 +6,7 @@
       <mapping pattern="change-credentials" type="Bash" />
       <mapping pattern="provision" type="Bash" />
       <mapping pattern="change-admin-credentials" type="Bash" />
+      <mapping pattern="run" type="Bash" />
       <mapping pattern="template-with-options" type="Bash" />
       <mapping pattern=".funcignore" type="Ignore file" />
       <mapping pattern="terraform.tfstate" type="JSON" />
