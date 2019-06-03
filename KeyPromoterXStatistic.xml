@@ -137,6 +137,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Navigation Bar">
+        <Item>
+          <IdeaActionID>ShowNavBar</IdeaActionID>
+          <ShortCut>'⌘↑' or '⌥↖'</ShortCut>
+          <Description>Navigation Bar</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Open Gradle config">
         <Item>
           <IdeaActionID>ExternalSystem.OpenConfig</IdeaActionID>
