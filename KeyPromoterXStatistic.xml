@@ -329,6 +329,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'com.rakuten.roc.BooksByCreativeWorkClusterer_clusterSpek-&gt;given two books with the same isbn-&gt;on matching the books'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'com.rakuten.roc.BooksByCreativeWorkClusterer_clusterSpek-&gt;given two books with the same isbn-&gt;on matching the books'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'executeSequentially.Executes promises sequentially'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
