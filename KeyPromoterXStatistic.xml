@@ -126,7 +126,7 @@
           <IdeaActionID>FindInPath</IdeaActionID>
           <ShortCut>'⇧⌘F'</ShortCut>
           <Description>Find in Path...</Description>
-          <Count>25</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -321,6 +321,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'com.rakuten.roc.BooksByCreativeWorkClusterer_clusterSpek'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'com.rakuten.roc.BooksByCreativeWorkClusterer_clusterSpek'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'com.rakuten.roc.BooksByCreativeWorkClusterer_clusterSpek-&gt;given two books with the same isbn'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -334,7 +342,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'com.rakuten.roc.BooksByCreativeWorkClusterer_clusterSpek-&gt;given two books with the same isbn-&gt;on matching the books'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'executeSequentially.Executes promises sequentially'">
