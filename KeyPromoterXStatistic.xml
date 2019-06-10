@@ -225,6 +225,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun ''cosmos:CosmosDBUpsert' replace all the contents of the previous version'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun ''cosmos:CosmosDBUpsert' replace all the contents of the previous version'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Delete operations are rejected'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -462,7 +470,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>105</Count>
+          <Count>108</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -518,7 +526,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'index.test.ts'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Into">
@@ -534,7 +542,15 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>27</Count>
+          <Count>29</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop ''cosmos:CosmosDBUpsert' replace all the contents of the previous version'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop ''cosmos:CosmosDBUpsert' replace all the contents of the previous version'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'FIXME'">
@@ -606,7 +622,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>105</Count>
+          <Count>106</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Power Mode II">
