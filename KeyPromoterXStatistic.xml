@@ -577,6 +577,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'com.rakuten.roc.reasoning.Spek0cluster'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'com.rakuten.roc.reasoning.Spek0cluster'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'index.test.ts'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
