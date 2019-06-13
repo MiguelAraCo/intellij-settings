@@ -6,6 +6,10 @@
           <option name="url" value="http://git.rakuten-it.com" />
           <option name="userName" value="miguel.aragon" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="MiguelAraCo" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
