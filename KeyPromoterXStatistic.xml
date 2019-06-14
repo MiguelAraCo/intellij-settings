@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinFiles</IdeaActionID>
           <ShortCut>'⇧⌘C'</ShortCut>
           <Description>Commit Directory...</Description>
-          <Count>111</Count>
+          <Count>112</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Value">
@@ -86,7 +86,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>224</Count>
+          <Count>225</Count>
         </Item>
       </Statistic>
       <Statistic Action="Detach Gradle project">
