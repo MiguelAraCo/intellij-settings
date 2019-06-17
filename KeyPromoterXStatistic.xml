@@ -257,6 +257,14 @@
           <Count>13</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Feature: cluster'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Feature: cluster'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'It creates a configuration object from a specified object'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -319,6 +327,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Returns if no documents are provided'</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Scenario: two books with the same isbn'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Scenario: two books with the same isbn'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Unnamed (1)'">
@@ -478,7 +494,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>113</Count>
+          <Count>116</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -550,7 +566,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>29</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop ''cosmos:CosmosDBUpsert' replace all the contents of the previous version'">
@@ -567,6 +583,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'FIXME'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Feature: cluster'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Feature: cluster'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Unnamed (1)'">
