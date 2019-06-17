@@ -609,6 +609,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'open-catalog:apps:spark-jobs:matching [test]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'open-catalog:apps:spark-jobs:matching [test]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'roc:apps:azure-functions:ingest-overdrive-metadata [build]'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
