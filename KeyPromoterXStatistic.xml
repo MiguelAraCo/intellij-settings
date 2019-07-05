@@ -6,7 +6,7 @@
           <IdeaActionID>Git.Add</IdeaActionID>
           <ShortCut>'⌥⌘A'</ShortCut>
           <Description>Add</Description>
-          <Count>120</Count>
+          <Count>121</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -38,7 +38,7 @@
           <IdeaActionID>CheckinFiles</IdeaActionID>
           <ShortCut>'⇧⌘C'</ShortCut>
           <Description>Commit Directory...</Description>
-          <Count>118</Count>
+          <Count>119</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Value">
@@ -102,7 +102,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>256</Count>
+          <Count>258</Count>
         </Item>
       </Statistic>
       <Statistic Action="Detach Gradle project">
@@ -198,7 +198,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>9</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -249,12 +249,20 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'CMSApplication (1)'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'CMSApplication (1)'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'CMSApplication'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'CMSApplication'</Description>
-          <Count>129</Count>
+          <Count>132</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Delete operations are rejected'">
@@ -550,7 +558,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>18</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -559,6 +567,14 @@
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
           <Count>32</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'CMSApplication (1)'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'CMSApplication (1)'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CMSApplication'">
@@ -641,12 +657,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'CMSApplication (1)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'CMSApplication (1)'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'CMSApplication'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'CMSApplication'</Description>
-          <Count>21</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'FIXME'">
@@ -750,7 +774,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>123</Count>
+          <Count>125</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Power Mode II">
