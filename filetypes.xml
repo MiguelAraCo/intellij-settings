@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="deploy" type="Bash" />
       <mapping pattern="template-with-arguments" type="Bash" />
+      <mapping pattern="add-user" type="Bash" />
       <mapping pattern="change-credentials" type="Bash" />
       <mapping pattern="clear-dbs" type="Bash" />
       <mapping pattern="provision" type="Bash" />
