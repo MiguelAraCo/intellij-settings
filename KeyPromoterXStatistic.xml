@@ -118,7 +118,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>277</Count>
+          <Count>278</Count>
         </Item>
       </Statistic>
       <Statistic Action="Detach Gradle project">
@@ -246,7 +246,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>187</Count>
+          <Count>188</Count>
         </Item>
       </Statistic>
       <Statistic Action="Replace in Path...">
@@ -774,7 +774,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'cms-server'</Description>
-          <Count>31</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'com.rakuten.roc.reasoning.Spek0cluster'">
@@ -846,7 +846,7 @@
           <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
           <ShortCut>'⌘6'</ShortCut>
           <Description>TODO</Description>
-          <Count>31</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
