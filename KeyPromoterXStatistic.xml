@@ -86,7 +86,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'cms-server'</Description>
-          <Count>12</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'index.test.ts'">
@@ -430,7 +430,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'cms-server'</Description>
-          <Count>87</Count>
+          <Count>89</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'com.rakuten.roc.BooksByCreativeWorkClusterer_clusterSpek'">
@@ -598,7 +598,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>276</Count>
+          <Count>310</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -718,7 +718,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>108</Count>
+          <Count>111</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop ''cosmos:CosmosDBUpsert' replace all the contents of the previous version'">
@@ -774,7 +774,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'cms-server'</Description>
-          <Count>30</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'com.rakuten.roc.reasoning.Spek0cluster'">
@@ -871,6 +871,14 @@
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
           <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="View Breakpoints...">
+        <Item>
+          <IdeaActionID>ViewBreakpoints</IdeaActionID>
+          <ShortCut>'⇧⌘F8'</ShortCut>
+          <Description>View Breakpoints...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
     </option>
