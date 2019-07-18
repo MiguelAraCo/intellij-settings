@@ -126,7 +126,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>286</Count>
+          <Count>287</Count>
         </Item>
       </Statistic>
       <Statistic Action="Detach Gradle project">
@@ -790,7 +790,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'cms-server'</Description>
-          <Count>34</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'com.rakuten.roc.reasoning.Spek0cluster'">
