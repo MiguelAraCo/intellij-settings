@@ -17,6 +17,7 @@
       <mapping pattern="CatalogEBook" type="PLAIN_TEXT" />
       <mapping pattern="coati-stg-concourse" type="PLAIN_TEXT" />
       <mapping pattern="terraform-provider-kafka" type="PLAIN_TEXT" />
+      <mapping pattern="reset-workers" type="PLAIN_TEXT" />
       <mapping pattern="ModelType" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".change" type="PLAIN_TEXT" />
