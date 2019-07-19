@@ -1,26 +1,26 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="deploy" type="Bash" />
-      <mapping pattern="template-with-arguments" type="Bash" />
-      <mapping pattern="add-user" type="Bash" />
       <mapping pattern="change-credentials" type="Bash" />
       <mapping pattern="clear-dbs" type="Bash" />
+      <mapping pattern="run" type="Bash" />
+      <mapping pattern="update-deployment" type="Bash" />
+      <mapping pattern="template-with-options" type="Bash" />
       <mapping pattern="provision" type="Bash" />
       <mapping pattern="change-admin-credentials" type="Bash" />
-      <mapping pattern="run" type="Bash" />
-      <mapping pattern="template-with-options" type="Bash" />
-      <mapping pattern="update-deployment" type="Bash" />
+      <mapping pattern="deploy" type="Bash" />
+      <mapping pattern="add-user" type="Bash" />
+      <mapping pattern="template-with-arguments" type="Bash" />
       <mapping pattern=".funcignore" type="Ignore file" />
       <mapping pattern="terraform.tfstate" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern="CatalogEBook" type="PLAIN_TEXT" />
-      <mapping pattern="coati-stg-concourse" type="PLAIN_TEXT" />
-      <mapping pattern="terraform-provider-kafka" type="PLAIN_TEXT" />
-      <mapping pattern="reset-workers" type="PLAIN_TEXT" />
-      <mapping pattern="ModelType" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".change" type="PLAIN_TEXT" />
+      <removed_mapping pattern="CatalogEBook" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="reset-workers" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="terraform-provider-kafka" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="coati-stg-concourse" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="ModelType" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
