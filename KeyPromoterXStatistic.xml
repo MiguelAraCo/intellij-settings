@@ -270,7 +270,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>197</Count>
+          <Count>199</Count>
         </Item>
       </Statistic>
       <Statistic Action="Replace in Path...">
@@ -415,6 +415,22 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Scenario: two books with the same isbn'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'SeriesTest$Command(CreateSeries)'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'SeriesTest$Command(CreateSeries)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'SeriesTest$Command(CreateSeries).invalid commands are rejected'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'SeriesTest$Command(CreateSeries).invalid commands are rejected'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'SeriesTest.invalid commands are rejected'">
