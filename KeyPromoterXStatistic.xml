@@ -150,7 +150,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>26</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expand All">
@@ -295,6 +295,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun ':cms-server:testIntegration'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Aggregate(Series)$Command(UpdateSeriesMetadata). ~ produces SeriesMetadataUpdated'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Aggregate(Series)$Command(UpdateSeriesMetadata).🙂 ~ produces SeriesMetadataUpdated'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CMSApplication (1)'">
@@ -734,7 +742,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>378</Count>
+          <Count>387</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -854,7 +862,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>159</Count>
+          <Count>160</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop ''cosmos:CosmosDBUpsert' replace all the contents of the previous version'">
