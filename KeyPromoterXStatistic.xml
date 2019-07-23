@@ -425,6 +425,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'SeriesTest$Command(CreateSeries).'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'SeriesTest$Command(CreateSeries).'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'SeriesTest$Command(CreateSeries).invalid commands are rejected'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
