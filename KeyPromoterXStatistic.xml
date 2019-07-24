@@ -297,6 +297,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Aggregate(Series)$Command(UpdateSeriesMetadata)'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Aggregate(Series)$Command(UpdateSeriesMetadata)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Aggregate(Series)$Command(UpdateSeriesMetadata). ~ produces SeriesMetadataUpdated'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
