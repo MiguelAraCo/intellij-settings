@@ -310,7 +310,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Aggregate(Series)$Command(UpdateSeriesImage).🙂 ~ produces SeriesImageUpdated'</Description>
-          <Count>19</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Aggregate(Series)$Command(UpdateSeriesMetadata)'">
@@ -774,7 +774,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>420</Count>
+          <Count>442</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -919,6 +919,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop ':cms-server:testIntegration'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Aggregate(Series)$Command(UpdateSeriesImage). ~ produces SeriesImageUpdated'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Aggregate(Series)$Command(UpdateSeriesImage).🙂 ~ produces SeriesImageUpdated'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'CMSApplication (1)'">
