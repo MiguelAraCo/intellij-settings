@@ -286,7 +286,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>206</Count>
+          <Count>207</Count>
         </Item>
       </Statistic>
       <Statistic Action="Replace in Path...">
@@ -337,20 +337,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Rerun 'Aggregate(Series)$Command(UpdateSeriesMetadata). ~ produces SeriesMetadataUpdated'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌘R'</ShortCut>
-          <Description>Rerun 'Aggregate(Series)$Command(UpdateSeriesMetadata).🙂 ~ produces SeriesMetadataUpdated'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Rerun 'Aggregate(Series)$Command(UpdateSeriesMetadata). invalid ~ rejected'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Aggregate(Series)$Command(UpdateSeriesMetadata).🙃 invalid ~ rejected'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Aggregate(Series)$Command(UpdateSeriesMetadata). ~ produces SeriesMetadataUpdated'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Aggregate(Series)$Command(UpdateSeriesMetadata).🙂 ~ produces SeriesMetadataUpdated'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Aggregate(Series)'">
@@ -489,6 +489,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'SeriesTest$Command(CreateSeries). duplicate ids are rejected'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'SeriesTest$Command(CreateSeries).🙃 duplicate ids are rejected'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'SeriesTest$Command(CreateSeries).'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -505,11 +513,11 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Rerun 'SeriesTest$Command(CreateSeries). duplicate ids are rejected'">
+      <Statistic Action="Rerun 'SeriesTest$Command(UpdateSeriesMetadata). invalid commands are rejected'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
-          <Description>Rerun 'SeriesTest$Command(CreateSeries).🙃 duplicate ids are rejected'</Description>
+          <Description>Rerun 'SeriesTest$Command(UpdateSeriesMetadata).🙃 invalid commands are rejected'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -519,14 +527,6 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'SeriesTest$Command(UpdateSeriesMetadata).🙂 produces SeriesMetadataUpdated'</Description>
           <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'SeriesTest$Command(UpdateSeriesMetadata). invalid commands are rejected'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌘R'</ShortCut>
-          <Description>Rerun 'SeriesTest$Command(UpdateSeriesMetadata).🙃 invalid commands are rejected'</Description>
-          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'SeriesTest'">
