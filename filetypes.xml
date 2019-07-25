@@ -15,8 +15,8 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="terraform.tfstate" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".change" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
