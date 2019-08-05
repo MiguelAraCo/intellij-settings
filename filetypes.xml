@@ -14,12 +14,13 @@
       <mapping pattern="run" type="Bash" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern=".funcignore" type="Ignore file" />
       <mapping pattern="terraform.tfstate" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern=".change" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern=".change" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="reset-workers" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
@@ -32,7 +33,6 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="terraform-provider-kafka" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <mapping pattern=".funcignore" type="Ignore file" />
     </extensionMap>
   </component>
 </application>
