@@ -11,6 +11,7 @@
       <mapping pattern="clear-dbs" type="Bash" />
       <mapping pattern="provision" type="Bash" />
       <mapping pattern="change-admin-credentials" type="Bash" />
+      <mapping pattern="replace-config" type="Bash" />
       <mapping pattern="run" type="Bash" />
       <mapping pattern="template-with-options" type="Bash" />
       <mapping pattern="update-deployment" type="Bash" />
