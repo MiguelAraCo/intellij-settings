@@ -4,6 +4,7 @@
       <mapping pattern="deploy" type="Bash" />
       <mapping pattern="template-with-arguments" type="Bash" />
       <mapping pattern="update-pipelines" type="Bash" />
+      <mapping pattern="add-configuration" type="Bash" />
       <mapping pattern="add-user" type="Bash" />
       <mapping pattern="build" type="Bash" />
       <mapping pattern="change-credentials" type="Bash" />
