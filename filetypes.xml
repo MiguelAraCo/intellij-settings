@@ -1,39 +1,40 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern=".funcignore" type="Ignore file" />
-      <mapping pattern="terraform.tfstate" type="JSON" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern=".change" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="reset-workers" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="coati-stg-concourse" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
-      <removed_mapping pattern="CatalogEBook" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="makefile" approved="true" type="textmate" />
-      <removed_mapping pattern="ModelType" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="update-deployment" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="terraform-provider-kafka" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <mapping pattern="deploy" type="Bash" />
+      <mapping pattern="template-with-arguments" type="Bash" />
+      <mapping pattern="update-pipelines" type="Bash" />
+      <mapping pattern="add-configuration" type="Bash" />
       <mapping pattern="add-user" type="Bash" />
       <mapping pattern="build" type="Bash" />
-      <mapping pattern="change-admin-credentials" type="Bash" />
       <mapping pattern="change-credentials" type="Bash" />
       <mapping pattern="clear-dbs" type="Bash" />
-      <mapping pattern="deploy" type="Bash" />
       <mapping pattern="provision" type="Bash" />
+      <mapping pattern="change-admin-credentials" type="Bash" />
+      <mapping pattern="replace-config" type="Bash" />
       <mapping pattern="run" type="Bash" />
-      <mapping pattern="template-with-arguments" type="Bash" />
       <mapping pattern="template-with-options" type="Bash" />
       <mapping pattern="update-deployment" type="Bash" />
+      <mapping pattern=".funcignore" type="Ignore file" />
+      <mapping pattern="terraform.tfstate" type="JSON" />
+      <mapping ext="avsc" type="JSON" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="asd" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".change" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="update-deployment" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="CatalogEBook" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="coati-stg-concourse" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="ModelType" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="terraform-provider-kafka" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="reset-workers" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
