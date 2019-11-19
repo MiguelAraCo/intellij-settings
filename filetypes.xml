@@ -8,10 +8,11 @@
       <mapping pattern="terraform.tfstate" type="JSON" />
       <mapping ext="avsc" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern="asd" type="PLAIN_TEXT" />
-      <mapping pattern=".env-example" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="xlsm" type="Native" />
       <mapping pattern=".change" type="PLAIN_TEXT" />
+      <mapping pattern=".env-example" type="PLAIN_TEXT" />
+      <mapping pattern="asd" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
