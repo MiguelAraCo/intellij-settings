@@ -7,6 +7,8 @@
     <option name="donTShowConversionDialog" value="true" />
   </component>
   <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern icon="important" pattern="\bfixme\b.*" />
     <filter name="TODOs">
       <pattern index="0" />
     </filter>
