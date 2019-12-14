@@ -10,6 +10,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="MiguelAraCo" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://916c72ae.ngrok.io" />
+          <option name="userName" value="MiguelAraCo" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
