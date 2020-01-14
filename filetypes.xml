@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Dockerfile-whirling" type="Dockerfile" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="pie" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
