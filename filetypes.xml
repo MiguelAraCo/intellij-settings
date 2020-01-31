@@ -4,6 +4,7 @@
       <mapping pattern="Dockerfile-whirling" type="Dockerfile" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="plan" type="PLAIN_TEXT" />
       <mapping ext="pie" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
