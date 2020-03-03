@@ -3,5 +3,8 @@
     <macro name="/">
       <typing text-keycode="47:0">/</typing>
     </macro>
+    <macro name="|">
+      <typing text-keycode="0:1">|</typing>
+    </macro>
   </component>
 </application>
