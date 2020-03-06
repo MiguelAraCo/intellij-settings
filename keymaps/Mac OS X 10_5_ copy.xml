@@ -15,11 +15,6 @@
   <action id="DatabaseView.CopyDdlAction" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
-  <action id="EditorBackSpace">
-    <keyboard-shortcut first-keystroke="back_space" />
-    <keyboard-shortcut first-keystroke="shift back_space" />
-    <keyboard-shortcut first-keystroke="back_slash" />
-  </action>
   <action id="EditorDuplicate" />
   <action id="FileChooser.GotoDesktop" />
   <action id="Git.Fetch">
