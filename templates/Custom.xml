@@ -21,7 +21,7 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="&lt;!--t" value="&lt;!--&#10;    TODO[$CATEGORY$]: $DESCRIPTION$&#10;    @$AUTHOR$ - $TIMESTAMP$&#10;--&gt;$END$" toReformat="false" toShortenFQNames="true">
+  <template name="&lt;!--t" value="&lt;!--&#10;    TODO[$CATEGORY$]: $DESCRIPTION$&#10;    @$AUTHOR$ - $TIMESTAMP$&#10;--&gt;$END$" description="" toReformat="false" toShortenFQNames="true">
     <variable name="CATEGORY" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="AUTHOR" expression="user()" defaultValue="" alwaysStopAt="false" />
