@@ -21,4 +21,29 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="&lt;!--t" value="&lt;!--&#10;    TODO[$CATEGORY$]: $DESCRIPTION$&#10;    @$AUTHOR$ - $TIMESTAMP$&#10;--&gt;$END$" toReformat="false" toShortenFQNames="true">
+    <variable name="CATEGORY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="AUTHOR" expression="user()" defaultValue="" alwaysStopAt="false" />
+    <variable name="TIMESTAMP" expression="date(&quot;yyyy-MM-dd&quot;)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="ColdFusion" value="false" />
+      <option name="ECMAScript6" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="JSP" value="false" />
+      <option name="KOTLIN" value="false" />
+      <option name="KUBERNETES_RESOURCE" value="false" />
+      <option name="MAVEN" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="REQUEST" value="false" />
+      <option name="SHELL_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="TypeScript" value="false" />
+    </context>
+  </template>
 </templateSet>
