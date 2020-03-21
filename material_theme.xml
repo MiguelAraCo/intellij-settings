@@ -1,10 +1,11 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="highlightColorEnabled" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
-    <option name="settingsSelectedTab" value="4" />
+    <option name="settingsSelectedTab" value="2" />
     <option name="accentColor" value="cb00ae" />
     <option name="secondAccentColor" value="cb00ae" />
     <option name="selectedTheme" value="CUSTOM" />
