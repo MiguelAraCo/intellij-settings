@@ -1,3 +1,8 @@
 <profile version="1.0">
   <option name="myName" value="Default" />
+  <inspection_tool class="SSBasedInspection" enabled="false" level="WARNING" enabled_by_default="false">
+    <replaceConfiguration name="Moneytree" text="MoneyTree" recursive="false" caseInsensitive="true" type="HTML" reformatAccordingToStyle="false" shortenFQN="false" replacement="Moneytree">
+      <constraint name="__context__" within="" contains="" />
+    </replaceConfiguration>
+  </inspection_tool>
 </profile>
